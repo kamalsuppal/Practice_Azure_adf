@@ -1,0 +1,15 @@
+{
+	"name": "NewPractGit",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d2c2f0f5-c94b-40a8-9e72-6e26fdbbe2d4",
+		"tenantId": "39c9e413-40cf-4ec6-bb9a-3f33a274e1d9"
+	}
+}
